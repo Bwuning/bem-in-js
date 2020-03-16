@@ -1,0 +1,26 @@
+{
+  "name": "bem-in-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/bundle.cjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^11.0.2",
+    "@types/node": "^13.9.0",
+    "@types/webpack": "^4.41.7",
+    "less": "^3.11.1",
+    "node-sass": "^4.13.1",
+    "rollup": "^2.0.2",
+    "rollup-plugin-postcss": "^2.3.0",
+    "rollup-plugin-typescript2": "^0.26.0",
+    "rollup-plugin-uglify": "^6.0.4",
+    "stylus": "^0.54.7",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3"
+  }
+}
