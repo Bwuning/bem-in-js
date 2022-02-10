@@ -14,7 +14,7 @@
     "@types/node": "^13.9.0",
     "@types/webpack": "^4.41.7",
     "less": "^3.11.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "rollup": "^2.0.2",
     "rollup-plugin-postcss": "^2.3.0",
     "rollup-plugin-typescript2": "^0.26.0",
